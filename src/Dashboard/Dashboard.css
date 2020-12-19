@@ -1,0 +1,60 @@
+.navbar{
+    background-color: aqua;
+}
+.navbar-brand, .list{
+    color: black;
+    text-decoration: none !important;
+}
+.NoData{
+    color:red;
+}
+.title{
+    font-weight: 600;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn_css{
+    background-color: #00b3c0 !important;
+    color: white !important;
+}
+.prd_border{
+    border: 1px solid aqua;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.content {
+    white-space: nowrap; 
+    width: 270px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .content:hover {
+    overflow: visible;
+  }
+  .prd_qty{
+    width: 53px;
+    height: 22px;
+    border-radius: 5px;
+    padding-left: 10px;
+  }
+  .itemList{
+      margin-bottom: 20px;
+  }
+  .line{
+    color: #b0bfbf;
+    border: 1px solid;
+  }
+  .modal_title{
+      color:red
+  }
+  .navbar-nav{
+      flex-direction: unset !important;
+  }
+  .table td, .table th{
+      border:none !important;
+  }
+  .topAlign{
+      margin-top: 20px;
+  }

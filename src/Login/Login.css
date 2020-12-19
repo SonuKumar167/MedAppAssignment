@@ -1,0 +1,23 @@
+.login{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    color: #00b3c0;
+}
+.form_head{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    margin-top: 20px
+}
+.form_align{
+    text-align: center;
+}
+.btn_login{
+    background-color: #00b3c0 !important;
+    color: white !important;
+}
+.error{
+    color:red;
+}
